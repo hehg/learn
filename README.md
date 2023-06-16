@@ -4,4 +4,5 @@
 学习文档都存放到知乎中
 
 目前包含的目录
-- test_swig 学习swig的源代码
+- test_swig 学习用swig 实现python 调用c++的基本功能
+- test_swig_callback 学习 在c++中回调python 函数
